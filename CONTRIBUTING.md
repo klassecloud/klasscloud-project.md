@@ -43,8 +43,7 @@ This project sticks to code style suggestions according to https://google.github
 | What | Where |
 |---|---|
 | Landingpage (static content) | https://github.com/klassecloud/landingpage |
-| Ionic based Frontend | https://github.com/klassecloud/frontendIonic |
-| Frontend code for teacher, student and administration | https://github.com/klassecloud/frontend |
+| Frontend User | https://github.com/klassecloud/frontendIonic |
 | Backend services code | https://github.com/klassecloud/backendBusiness |
 | Teacher application server code | https://github.com/klassecloud/backendTeacher |
 | User application server code | https://github.com/klassecloud/backendUser |
