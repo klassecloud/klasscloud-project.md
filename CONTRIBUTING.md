@@ -45,8 +45,9 @@ This project sticks to code style suggestions according to https://google.github
 | Landingpage (static content) | https://github.com/klassecloud/landingpage |
 | Ionic based Frontend | https://github.com/klassecloud/frontendIonic |
 | Frontend code for teacher, student and administration | https://github.com/klassecloud/frontend |
-| Backend services code | https://github.com/klassecloud/backend |
+| Backend services code | https://github.com/klassecloud/backendBusiness |
 | Teacher application server code | https://github.com/klassecloud/backendTeacher |
+| User application server code | https://github.com/klassecloud/backendUser |
 | project website and user targeting documentation | https://github.com/klassecloud/klassecloud.github.io |
 | old frontend - dead | https://github.com/klassecloud/frontend |
 | old stuff | https://github.com/klassecloud/digitales-klassenzimmer-backend-appsync |
