@@ -54,5 +54,10 @@ This project sticks to code style suggestions according to https://google.github
 ## Project Insights
 Any changes to the master branch of a code repository starts an automatic build test and deploy pipeline. Pull requests targeting master branch are only built and tested, but never get deployed.
 
+### Used tools
+- Visual Paradigm Community Edition: Entity Relationship modelling
+- IntelliJ / Eclipse: Java integrated 
+- Adobe XD: frontend clickdummy design 
+
 ### Tests
 Backend Java code can be tested using JUnit 5 tests.
