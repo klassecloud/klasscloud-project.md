@@ -44,8 +44,10 @@ This project sticks to code style suggestions according to https://google.github
 |---|---|
 | Landingpage (static content) | https://github.com/klassecloud/landingpage |
 | Frontend User | https://github.com/klassecloud/frontendIonic |
+| Frontend Teacher | https://github.com/klassecloud/frontendTeacher |
 | Backend services code | https://github.com/klassecloud/backendBusiness |
 | Teacher application server code | https://github.com/klassecloud/backendTeacher |
+| SWEP | https://github.com/klassecloud/SWEP |
 | User application server code | https://github.com/klassecloud/backendUser |
 | project website and user targeting documentation | https://github.com/klassecloud/klassecloud.github.io |
 | old frontend - dead | https://github.com/klassecloud/frontend |
